@@ -19,6 +19,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 10. [F# Doom](https://github.com/TIHan/NewFoom)
 11. [F# Quake 3](https://github.com/TIHan/FQuake3)
 12. [A collection of heightmap generators, along with some bmp/ppm image format savers](https://github.com/ChrisPritchard/Heightmaps)
+13. [Fun 3D: Composing 3D objects with F# ](https://github.com/tpetricek/Fun3D) - beginner-friendly environment for composing 3D objects in functional way.
 
 
 ## OSS Samples
@@ -43,11 +44,11 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 6. [Teaching F# - from Numerical Expressions to 3D Graphics](http://fpish.net/course/32)
 
 ## Articles
-
 [Star Wars Intro in AutoCAD in F# - part 1 out of 4, others linked](https://through-the-interface.typepad.com/through_the_interface/2015/01/recreating-the-star-wars-opening-crawl-in-autocad-using-f-part-1.html)
 
 ### 3D Graphics Programming
 1. [Why Write Shaders in F#?](https://github.com/rookboom/SharpShaders/wiki/Why-write-shaders-in-FSharp%3F)
+2. [Composing Chrismas with F#](http://tomasp.net/blog/2014/composing-christmas/) - example of 3D graphics in F# using an OpenGL-based graphic library written in F#. More with this library: [Tomas Petricek - Domain Specific Languages, the functional way](https://vimeo.com/97315970), [Solving fun puzzles with F#](http://tomasp.net/blog/2014/puzzling-fsharp/index.html)
 
 ### Game Development
 
@@ -62,6 +63,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 ### Graphics / Gamedev on the Web (Powered by Fable)
 1. [Creating Visual Planetary Systems using Fable and F#](https://medium.com/@mukund.sharma92/creating-visual-planetary-systems-using-fable-and-f-de23415ca6f7)
 2. [Three.js + F# + Fable = ❤](https://medium.com/@volhasamusik/three-js-f-fable-3a177085f34f)
+3. [F#, Fable & ThreeJs: Hello Cube](http://www.progletariat.com/blog/2017/06-22-fable-threejs-hello/index.html)
 
 
 ## Presentations
