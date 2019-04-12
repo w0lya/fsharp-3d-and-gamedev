@@ -29,6 +29,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 4. [FSSceneKit City - creating a randomly generated city using the SceneKit API (Xamarin) and F#.](https://developer.xamarin.com/samples/monotouch/ios8/FSSceneKit/)
 5. [ARKit in F#, with realistically proportioned Solar System Objects](https://github.com/lobrien/Orrery)
 6. [WIP: App with facts on the planets in the Solar System. Uses Urho3D and Fabulous (F#)](https://github.com/TimLariviere/ElmishPlanets)
+7. [Three.js, WebGL and F# - a 3D Terrain sample](https://github.com/fable-compiler/samples-browser/blob/master/src/webgl-terrain/App.fs). Live version [here](https://fable.io/samples-browser/webgl-terrain/)
 
 ## Tutorials 
 1. [F# game tutorial series with Monogame](http://bruinbrown.wordpress.com/f-game-tutorial-series/)
