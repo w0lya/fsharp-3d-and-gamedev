@@ -2,6 +2,10 @@
 
 Inspired by [Functional Programming In Games](https://github.com/Andrea/FunctionalProgrammingInGames) repository.
 
+This is a WIP document.
+
+Please suggest papers/articles/resources through Github **pull requests**. If you believe this list is missing something or has factually inaccurate info, you can also file an issue in the **issue tracker**.
+
 ## OSS Projects
 1. [F# Rendering Toolkit (Real-Time)](https://github.com/eloraiby/FsRTK/) - includes [Math3D](https://github.com/eloraiby/FsRTK/tree/master/FsRTK.Math3D)
 2. [3D Math in F#](https://github.com/fsprojects/FsMath3D)
