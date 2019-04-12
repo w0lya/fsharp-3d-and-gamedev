@@ -26,10 +26,13 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 2. [F# gamedev samples and slides](https://archive.codeplex.com/?p=fsharpgamedev)
 3. [WebGL F# Fable bindings and example with WebGL](https://github.com/davidtme/Fable-WebGL/blob/master/GameWorldRenderer.fs)
 4. [FSSceneKit City - creating a randomly generated city using the SceneKit API (Xamarin) and F#.](https://developer.xamarin.com/samples/monotouch/ios8/FSSceneKit/)
+5. [ARKit in F#, with realistically proportioned Solar System Objects](https://github.com/lobrien/Orrery)
+6. [WIP: App with facts on the planets in the Solar System. Uses Urho3D and Fabulous (F#)](https://github.com/TimLariviere/ElmishPlanets)
 
 ## Tutorials 
 1. [F# game tutorial series with Monogame](http://bruinbrown.wordpress.com/f-game-tutorial-series/)
 2. [Tutorial: Using F# with Unity3D 2018.3](https://jacksondunstan.com/articles/5058)
+3. [Programming UrhoSharp with F#](https://docs.microsoft.com/en-us/xamarin/graphics-games/urhosharp/fsharp)
 
 ## Videos
 1. [Will Smith - Porting Quake III to F#: A Journey to Functional Programming](https://vimeo.com/97530815)
