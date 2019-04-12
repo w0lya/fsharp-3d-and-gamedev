@@ -25,6 +25,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 1. [Vulkan in F# samples](https://github.com/realvictorprm/FSharpVulkanSamples)
 2. [F# gamedev samples and slides](https://archive.codeplex.com/?p=fsharpgamedev)
 3. [WebGL F# Fable bindings and example with WebGL](https://github.com/davidtme/Fable-WebGL/blob/master/GameWorldRenderer.fs)
+4. [FSSceneKit City - creating a randomly generated city using the SceneKit API (Xamarin) and F#.](https://developer.xamarin.com/samples/monotouch/ios8/FSSceneKit/)
 
 ## Tutorials 
 1. [F# game tutorial series with Monogame](http://bruinbrown.wordpress.com/f-game-tutorial-series/)
@@ -49,6 +50,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 
 ### VR / AR / MR
 1. [Face-based Augmented Reality with F# and the iPhone X](http://www.knowing.net/index.php/2017/12/28/fun-ny-faces-face-based-augmented-reality-with-f-and-the-iphone-x/)
+2. [The Solar System with ARKit and F#](https://devblogs.microsoft.com/xamarin/the-solar-system-with-arkit-and-f/)
 
 
 ### On Interop
