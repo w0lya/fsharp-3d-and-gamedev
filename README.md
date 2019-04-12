@@ -47,6 +47,9 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 
 ### Game Development
 
+### VR / AR / MR
+1. [Face-based Augmented Reality with F# and the iPhone X](http://www.knowing.net/index.php/2017/12/28/fun-ny-faces-face-based-augmented-reality-with-f-and-the-iphone-x/)
+
 
 ### On Interop
 1. [Accessing Linux C libraries with F# and .Net Core](http://hamstr.net/f%23/2016/12/16/Accessing-Linux-C-libraries-with-F-and-.Net-Core/)
