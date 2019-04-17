@@ -33,8 +33,9 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 
 ## Tutorials 
 1. [F# game tutorial series with Monogame](http://bruinbrown.wordpress.com/f-game-tutorial-series/)
-2. [Tutorial: Using F# with Unity3D 2018.3](https://jacksondunstan.com/articles/5058)
-3. [Programming UrhoSharp with F#](https://docs.microsoft.com/en-us/xamarin/graphics-games/urhosharp/fsharp)
+2. [Unity 3d game engine tutorial (in F#) - an Easy Way To get Started](https://github.com/Thorium/Roll-a-ball-FSharp)
+3. [Tutorial: Using F# with Unity3D 2018.3](https://jacksondunstan.com/articles/5058)
+4. [Programming UrhoSharp with F#](https://docs.microsoft.com/en-us/xamarin/graphics-games/urhosharp/fsharp)
 
 ## Videos
 1. [Will Smith - Porting Quake III to F#: A Journey to Functional Programming](https://vimeo.com/97530815)
