@@ -14,7 +14,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 5. [F# Ray Caster Implementation](https://github.com/ChrisPritchard/tiny-ray-caster)
 6. [Shader translation from F# to HLSL](https://github.com/rookboom/SharpShaders)
 7. [Duality Scripting](https://github.com/BraveSirAndrew/DualityScripting) - write F# on the Duality Game Engine. This plugin supports C# too.
-8. [Nu Game Engine](https://github.com/bryanedds/FPWorks) cross-platform F# 2D game engine. It encourages to use as the architecture a variation of FRP which he calls Iterative Functional Reactive Programming.
+8. [Nu Game Engine](https://github.com/bryanedds/FPWorks) cross-platform F# 2D game engine. It encourages to use a variation of FRP called Iterative Functional Reactive Programming as architectural style.
 9. [FShade](https://github.com/krauthaufen/FShade) - a Library allowing users to write Shaders in F# using code-quotations.
 10. [F# Doom](https://github.com/TIHan/NewFoom)
 11. [F# Quake 3](https://github.com/TIHan/FQuake3)
