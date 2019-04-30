@@ -69,7 +69,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 
 
 ## Presentations
-
+1. [Solving 3D Problems With F#](https://docs.google.com/presentation/d/1gdxAvNUbKHEyQDLfhL4eu5eKyEBUynR0jkRlqWn3wHw/edit?usp=sharing)
 
 ## Books
 1. [Friendly F#](http://www.amazon.com/Friendly-Fun-game-programming-Book-ebook/dp/B005HHYIWC) - Not totally about games but all examples are game-related.
