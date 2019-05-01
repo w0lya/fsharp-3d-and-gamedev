@@ -44,6 +44,7 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 4. [F# Exchange 2018 - 3D Model Manipulation with F#](https://skillsmatter.com/skillscasts/11603-3d-model-manipulation-with-f-sharp) - need to log in to watch.
 5. [Functional Game Logic With State Pipelines](https://www.youtube.com/watch?v=PFWYwr7Hhhg)
 6. [Teaching F# - from Numerical Expressions to 3D Graphics](http://fpish.net/course/32)
+7. [Using a "tweaked" version of Fable to run FShade in the browser and generate shaders in runtime from F# code, by Georg Haaser](https://www.youtube.com/watch?v=s5rO0RUXXmo)
 
 ## Articles
 [Star Wars Intro in AutoCAD in F# - part 1 out of 4, others linked](https://through-the-interface.typepad.com/through_the_interface/2015/01/recreating-the-star-wars-opening-crawl-in-autocad-using-f-part-1.html)
