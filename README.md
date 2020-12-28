@@ -7,7 +7,7 @@ This is a WIP document.
 Please suggest papers/articles/resources through Github **pull requests**. If you believe this list is missing something or has factually inaccurate info, you can also file an issue in the **issue tracker**.
 
 ## OSS Projects
-1. [Aardvark Platform - Awesome libraries from math to interactive high-performance graphics applications](https://github.com/aardvark-platform). Specifically, check out [Aardvark rendering engine](https://github.com/aardvark-platform/aardvark.rendering) and [Aardvaek media, Elm-style purely functional UI and 3D graphics](https://github.com/aardvark-platform/aardvark.media)
+1. [Aardvark Platform](https://github.com/aardvark-platform) - awesome libraries from math to interactive high-performance graphics applications. Specifically, check out [Aardvark rendering engine](https://github.com/aardvark-platform/aardvark.rendering) and [Aardvaek media, Elm-style purely functional UI and 3D graphics](https://github.com/aardvark-platform/aardvark.media)
 1. [F# Rendering Toolkit (Real-Time)](https://github.com/eloraiby/FsRTK/) - includes [Math3D](https://github.com/eloraiby/FsRTK/tree/master/FsRTK.Math3D)
 2. [3D Math in F#](https://github.com/fsprojects/FsMath3D)
 3. [F# GLFW 3.2.1 Binding](https://github.com/fsprojects/FsGlfw3)
