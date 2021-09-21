@@ -33,10 +33,11 @@ Please suggest papers/articles/resources through Github **pull requests**. If yo
 7. [Three.js, WebGL and F# - a 3D Terrain sample](https://github.com/fable-compiler/samples-browser/blob/master/src/webgl-terrain/App.fs). Live version [here](https://fable.io/samples-browser/webgl-terrain/)
 
 ## Tutorials 
-1. [F# game tutorial series with Monogame](http://bruinbrown.wordpress.com/f-game-tutorial-series/)
-2. [Unity3D game engine tutorial in F# - an easy way to get started](https://github.com/Thorium/Roll-a-ball-FSharp)
-3. [Tutorial: Using F# with Unity3D 2018.3](https://jacksondunstan.com/articles/5058)
-4. [Programming UrhoSharp with F#](https://docs.microsoft.com/en-us/xamarin/graphics-games/urhosharp/fsharp)
+1. [LearnOpenGL.FSharp. Exercises based on https://learnopengl.com/ tutorials, using F# and Silk.NET as the OpenGL wrapper](https://github.com/Agnael/LearnOpenGL.FSharp)
+2. [F# game tutorial series with Monogame](http://bruinbrown.wordpress.com/f-game-tutorial-series/)
+3. [Unity3D game engine tutorial in F# - an easy way to get started](https://github.com/Thorium/Roll-a-ball-FSharp)
+4. [Tutorial: Using F# with Unity3D 2018.3](https://jacksondunstan.com/articles/5058)
+5. [Programming UrhoSharp with F#](https://docs.microsoft.com/en-us/xamarin/graphics-games/urhosharp/fsharp)
 
 ## Videos
 1. [Will Smith - Porting Quake III to F#: A Journey to Functional Programming](https://vimeo.com/97530815)
